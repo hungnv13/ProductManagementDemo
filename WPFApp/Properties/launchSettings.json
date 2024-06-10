@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFApp": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\FPT\\SUMMER2024\\Code_C#_Basic\\ProductManagementDemo\\WPFApp\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}
